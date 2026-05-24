@@ -1,0 +1,8 @@
+.venv/
+data/raw/
+data/processed/
+notebooks/
+.ipynb_checkpoints/.project2/
+models/
+.project2/
+.venv/
